@@ -1,12 +1,12 @@
-# Tangle Glass privacy policy
+# Untangle Glass: Line Puzzle privacy policy
 
 Effective date: 25 November 2026
 
-Tangle Glass is a puzzle game for Android made by Exalted Lion Games. This policy explains what happens to your information when you play it.
+Untangle Glass: Line Puzzle is a puzzle game for Android made by Exalted Lion Games. This policy explains what happens to your information when you play it.
 
 ## The short version
 
-Tangle Glass does not collect, send or share any personal information. It works without an internet connection, has no accounts, shows no ads and contains no analytics or tracking.
+The game does not collect, send or share any personal information. It works without an internet connection, has no accounts, shows no ads and contains no analytics or tracking.
 
 ## What the game stores
 
